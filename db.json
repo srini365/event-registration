@@ -4,55 +4,55 @@
     "name": "Event 1",
     "eventdate": "23 May, 2020 ",
     "seats": "23",
-    "book": "/booking"
+    "book": "Book Now"
   },
   {
     "id": 2,
     "name": "Event 2",
     "eventdate": "23 May, 2020 ",
     "seats": "23",
-    "book": "/booking"
+    "book": "Book Now"
   },
   {
     "id": 3,
     "name": "Event 3",
     "eventdate": "23 May, 2020 ",
     "seats": "0",
-    "book": "#"
+    "book": "Sold Out"
   },
   {
     "id": 4,
     "name": "Event 4",
     "eventdate": "23 May, 2020 ",
     "seats": "23",
-    "book": "/booking"
+    "book": "Book Now"
   },
   {
     "id": 5,
     "name": "Event 5",
     "eventdate": "23 May, 2020 ",
     "seats": "23",
-    "book": "/booking"
+    "book": "Book Now"
   },
   {
     "id": 6,
     "name": "Event 6",
     "eventdate": "23 May, 2020 ",
     "seats": "0",
-    "book": "#"
+    "book": "Sold Out"
   },
   {
     "id": 7,
     "name": "Event 7",
     "eventdate": "23 May, 2020 ",
     "seats": "23",
-    "book": "/booking"
+    "book": "Book Now"
   },
   {
     "id": 8,
     "name": "Event 8",
     "eventdate": "23 May, 2020 ",
     "seats": "23",
-    "book": "/booking"
+    "book": "Book Now"
   }
 ]
